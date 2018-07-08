@@ -1,0 +1,17 @@
+[
+    {
+        "id":0,
+        "book":"Tripper API",
+        "group":"Naama, Dekel, Yossi, Elad"
+    },
+    {
+        "id":1,
+        "book":"Cyber Crawler App",
+        "group":"Aviad, Yoni, Bat-El, Maayan"
+    },
+    {
+        "id":2,
+        "book":"Cyber2 Crawler App",
+        "group":"Meir, Yoni, Bat-El, Maayan"
+    }
+]
